@@ -13,3 +13,11 @@ RU-FEMOIN database (Japanse Facial Emotional Intensity from Ritsumeikan Universi
 
 
 ### Citation
+The paper is coming soon!
+
+### Related pages
+AIS Lab., Ritsumeikan University (PI: Prof. Joo-Ho Lee): http://www.aislab.org/
+
+Prof. Joo-Ho Lee's homepage: https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220
+
+Dr. Miran Lee's personal homepage: https://sites.google.com/view/miran-page/home
