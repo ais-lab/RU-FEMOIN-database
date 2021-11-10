@@ -5,9 +5,7 @@
 Facial Emotional Intensity Database from Ritsumeikan University (RU-FEMOIN) Database
 
 ### Abstract
-This study was conducted in the AIS laboratory (Principal Investigator: Prof. Joo-Ho Lee (lee.aislab@gmail.com) of Ritsumeikan University. This database is open to the public under the authority of the first author (Dr. Miran Lee) or corresponding author (Prof. Joo-Ho Lee) of this study.
-
-Abstract
+This study was conducted in the AIS laboratory (Principal Investigator: Prof. Joo-Ho Lee of Ritsumeikan University. This database is open to the public under the authority of the first author (Dr. Miran Lee (miran@robot.t.u-tokyo.ac.jp)) or corresponding author (Prof. Joo-Ho Lee (lee.aislab@gmail.com)) of this study.
 
 RU-FEMOIN database (Japanse Facial Emotional Intensity from Ritsumeikan University) contains frontal images of the faces of subjects. The experiment was approved by the Institutional Review Board (IRB) of Ritsumeikan University (BKC-2019-060).
 
