@@ -1,5 +1,5 @@
 # RU-FEMOIN-database
 
-### Stay tuned! the RU-FEMOIN database is coming soon!
+### Stay tuned! The RU-FEMOIN database will be released soon!
 
 ### Facial Emotional Intensity Database from Ritsumeikan University (RU-FEMOIN) Database
